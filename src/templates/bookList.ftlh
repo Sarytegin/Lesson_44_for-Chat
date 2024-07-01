@@ -17,6 +17,8 @@
     </tr>
     <#list books as book>
     <tr>
+
+
         <td>${book.id}</td>
         <td>${book.title}</td>
         <td>${book.author}</td>
